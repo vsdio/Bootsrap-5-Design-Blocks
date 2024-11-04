@@ -17,6 +17,10 @@ Bootstrap 5 Template Blocks ready to be used in your web or mobile apps. All blo
 
 - **Bootstrap Icons**. We're using the amazing Bootstrap Icons, it's free, high quality, open source icon library with over 2,000 icons.
 
+## Categories
+
+- Hero - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Hero
+
 
 ## Browser Support
 
