@@ -15,9 +15,9 @@ Bootstrap 5 Template Blocks ready to be used in your web or mobile apps. All blo
 
 - **Download Bootstrap 5 Template Blocks.** There are several ways to start using the Bootstrap 5 Template Blocks depending on how you prefer:
 
-    1. Use for [Vsdio](https://vsdio.com)
-    2. Use for develop the website (using Bootstrap 5)
-    3. ...
+    - Use for [Vsdio](https://vsdio.com)
+    - Use for develop the website (using Bootstrap 5)
+    - ...
 
 
 ## Dependenciesa
