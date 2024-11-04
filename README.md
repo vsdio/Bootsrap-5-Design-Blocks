@@ -24,7 +24,7 @@ Bootstrap 5 Template Blocks ready to be used in your web or mobile apps. All blo
 
 - **Bootstrap**. Bootstrap 5 Template Blocks is built on Bootstrap 5 library and fully supports it.
     ```html
-    <!--CDN -->
+    <!-- Bootstrap 5 CDN -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     ```
 
@@ -33,7 +33,19 @@ Bootstrap 5 Template Blocks ready to be used in your web or mobile apps. All blo
 
 ## Categories
 
-- Hero - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Hero
+- Hero (5) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Hero
+- About (7) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/About
+- Features (9) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Features
+- Services (1) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Services
+- Portfolio (2) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Portfolio
+- Team (3) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Team
+- Blog (1) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Blog
+- Clients (2) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Clients
+- Call to Action (1) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Call-to-Action
+- FAQ (2) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/FAQs
+- Pricing (1) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Pricing
+- Contact (2) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Contact
+- Footer (1) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Footer
 
 
 ## Browser Support
