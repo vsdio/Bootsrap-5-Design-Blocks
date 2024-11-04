@@ -23,6 +23,11 @@ Bootstrap 5 Template Blocks ready to be used in your web or mobile apps. All blo
 ## Dependencies
 
 - **Bootstrap**. Bootstrap 5 Template Blocks is built on Bootstrap 5 library and fully supports it.
+    ```html
+    <!--CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    ```
+
 - **Bootstrap Icons**. We're using the amazing Bootstrap Icons, it's free, high quality, open source icon library with over 2,000 icons.
 
 
