@@ -1,0 +1,109 @@
+<!doctype html>
+<!-- This site was created in Vsdio. https://vsdio.com --><!-- Last Published: Tue Nov 05 2024 09:56:40 Europe/Berlin+0100 -->
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="generator" content="">
+    <title>Expanding flex cards with animation</title>
+    <link rel="canonical" href="">
+    <link href="https://vsdio.com/media/assets/bootstrap-5.3.3/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://vsdio.com/media/assets/icons-1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+    <style>
+        .vs-collapse>i {
+            transition-duration: 0.3s;
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transform: rotate(90deg);
+        }
+
+        .vs-collapse.collapsed>i {
+            transform: rotate(0deg);
+        }
+
+        .h-300px {
+            height: 300px
+        }
+
+        .font-size-40px {
+            font-size: 40px;
+        }
+
+        .font-size-20px {
+            font-size: 20px;
+        }
+
+        .width-96px {
+            width: 96px;
+        }
+
+        .teams {
+            display: flex;
+            gap: 16px;
+            width: 1000px;
+            height: 500px;
+            justify-content: center
+        }
+
+        .team-info {
+            background-image: url(https://media.vsdio.com/vsae34a498e700a408258ce9da38dea9ae717f1997/albert-dera-ILip77SbmOE-unsplash.jpg);
+            background-repeat: no-repeat;
+            background-position: 50% 50%;
+            background-attachment: scroll;
+            background-size: auto;
+            min-width: 60px;
+            flex-grow: 1;
+            border-top-left-radius: 12px;
+            border-top-right-radius: 12px;
+            border-bottom-right-radius: 12px;
+            border-bottom-left-radius: 12px;
+            transition: flex 600ms ease 0ms, transform 600ms ease 0ms
+        }
+
+        .team-info:hover {
+            flex-grow: 5;
+            transform: scale3d(1.1, 1.1, 1);
+        }
+
+        .team-info-2 {
+            background-image: url(https://media.vsdio.com/vsae34a498e700a408258ce9da38dea9ae717f1997/jake-nackos-IF9TK5Uy-KI-unsplash.jpg);
+            background-repeat: no-repeat;
+            background-position: 50% 50%;
+            background-attachment: scroll;
+            background-size: auto
+        }
+
+        .team-info-3 {
+            background-image: url(https://media.vsdio.com/vsae34a498e700a408258ce9da38dea9ae717f1997/andrew-power-9ZXpKFlQkjo-unsplash.jpg);
+            background-repeat: no-repeat;
+            background-position: 50% 50%;
+            background-attachment: scroll;
+            background-size: auto
+        }
+
+        .container-teams {
+            display: flex;
+            justify-content: center
+        }
+    </style>
+</head>
+
+<body data-id="vs7537d55b916b7b62c2fdf5c213e38700b6294fb4">
+    <section class=" py-5">
+        <div class="container container-teams">
+            <div class=" teams">
+                <div class=" team-info"></div>
+                <div class=" team-info team-info-2"></div>
+                <div class=" team-info team-info-3"></div>
+                <div class=" team-info"></div>
+                <div class=" team-info"></div>
+                <div class=" team-info"></div>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>
