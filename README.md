@@ -47,7 +47,7 @@ Bootstrap 5 Template Blocks ready to be used in your web or mobile apps. All blo
 - Form (1) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Form
 - Pricing (1) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Pricing
 - Contact (2) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Contact
-- Footer (2) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Footer
+- Footer (3) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Footer
 
 
 ## Browser Support
