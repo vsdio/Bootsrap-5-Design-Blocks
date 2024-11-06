@@ -1,0 +1,84 @@
+<section class="py-5">
+  <div class="container">
+    <div class="row justify-content-center align-items-center">
+      <div class="col-lg-6 mb-5 pb-lg-2">
+        <div class="text-center">
+          <p class="text-uppercase mb-0 small">Contact With us</p>
+          <h2 class="fw-semibold mb-3">let’s get connected</h2>
+          <p class="lead">Lorem ipsum dolor sit, consectetur adipiscing . egestas cursus pellentesque dignissim dui, congue etiam</p>
+        </div>
+      </div>
+      <div class="col-lg-10">
+        <div class="rounded p-5 bg-white shadow-lg">
+          <div class="row">
+            <div class="col-12 mb-4">
+              <h4 class="fw-medium mb-3">Leave Us A Message</h4>
+            </div>
+            <div class="col-lg-6">
+              <div class="contact-form">
+                <form action="#!">
+                  <div class="mb-4 pb-2">
+                    <label for="exampleFormControlInput1" class="form-label">Full Name</label>
+                    <input type="text" class="form-control shadow-none py-2" id="exampleFormControlInput1" />
+                  </div>
+                  <div class="mb-4 pb-2">
+                    <label for="exampleFormControlInput2" class="form-label">Email address</label>
+                    <input type="email" class="form-control shadow-none py-2" id="exampleFormControlInput2" />
+                  </div>
+                  <div class="mb-4 pb-2">
+                    <label for="exampleFormControlTextarea1" class="form-label">Write Message</label>
+                    <textarea class="form-control shadow-none py-2" id="exampleFormControlTextarea1" rows="3"></textarea>
+                  </div>
+                  <button class="btn w-100 btn-dark py-2 fw-medium" type="submit">Send Message</button>
+                </form>
+              </div>
+            </div>
+            <div class="col-lg-6 mt-5 mt-lg-0">
+              <div class="ms-0 ms-lg-5">
+                <div class="block mt-0">
+                  <h4 class="fs-5">Still Have Questions?</h4>
+                  <div class="content">Call Us We Will Be Happy To Help
+                    <br />
+                    <a href="tel:+3301563965">+3301563965</a>
+                    <br />Monday - Friday
+                    <br />9AM TO 8PM Eastern Time</div>
+                </div>
+                <div class="block mt-4">
+                  <h4 class="fs-5">Canada Office</h4>
+                  <div class="content">231 Ross Street.
+                    <br />K7A 1C2.
+                    <br />Smiths Falls</div>
+                </div>
+                <div class="block mt-4">
+                  <h4 class="fs-5">UK Office</h4>
+                  <div class="content">57 Folkestone Road.
+                    <br />AB54 5XQ,
+                    <br />Winston</div>
+                </div>
+                <div class="block">
+                  <ul class="list-unstyled list-inline my-4 social-icons">
+                    <li class="list-inline-item me-3">
+                      <a title="Explorer Facebook Profile" class="text-black" href="#">
+                        <i class="bi bi-facebook"></i>
+                      </a>
+                    </li>
+                    <li class="list-inline-item me-3">
+                      <a title="Explorer Twitter Profile" class="text-black" href="#">
+                        <i class="bi bi-twitter-x"></i>
+                      </a>
+                    </li>
+                    <li class="list-inline-item me-3">
+                      <a title="Explorer Instagram Profile" class="text-black" href="#">
+                        <i class="bi bi-instagram"></i>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
