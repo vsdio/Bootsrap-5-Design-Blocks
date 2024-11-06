@@ -41,7 +41,7 @@ Bootstrap 5 Template Blocks ready to be used in your web or mobile apps. All blo
 - Testimonials (1) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Testimonials
 - Team (3) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Team
 - Blog (1) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Blog
-- Clients (2) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Clients
+- Clients (3) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Clients
 - Call to Action (1) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Call-to-Action
 - FAQ (2) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/FAQs
 - Form (1) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Form
