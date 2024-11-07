@@ -4,7 +4,7 @@ Bootstrap 5 Template Blocks ready to be used in your web or mobile apps. All blo
 
 ## Table of contents
 
-- [why use Bootstrap 5 Template Blocks] (#why-use-bootstrap-5-template-blocks)
+- [why use Bootstrap 5 Template Blocks](#why-use-bootstrap-5-template-blocks)
 - [Quick start](#quick-start)
 - [Dependencies](#dependencies)
 - [Categories](#categories)
