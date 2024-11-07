@@ -4,12 +4,15 @@ Bootstrap 5 Template Blocks ready to be used in your web or mobile apps. All blo
 
 ## Table of contents
 
+- [why use Bootstrap 5 Template Blocks] (#why-use-bootstrap-5-template-blocks)
 - [Quick start](#quick-start)
 - [Dependencies](#dependencies)
 - [Categories](#categories)
 - [Browser support](#browser-support)
 - [Copyright and license](#copyright-and-license)
 
+## why use Bootstrap 5 Template Blocks
+Bootstrap 5 Template Blocks are built with only HTML with bootstrap 5, no CSS theme, no custom CSS. So there will be no conflict with your website. They will help you save the time of developing or upgrading the website.
 
 ## Quick start
 
