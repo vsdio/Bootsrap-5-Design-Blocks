@@ -41,7 +41,7 @@ Bootstrap 5 Template Blocks are built with only HTML with bootstrap 5, no CSS th
 - Hero (5) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Hero
 - About (10) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/About
 - Features (10) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Features
-- Services (5) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Services
+- Services (6) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Services
 - Portfolio (2) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Portfolio
 - Testimonials (3) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Testimonials
 - Team (4) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Team
