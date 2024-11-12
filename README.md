@@ -32,7 +32,9 @@ Bootstrap 5 Template Blocks are built with only HTML with bootstrap 5, no CSS th
     ```
 
 - **Bootstrap Icons**. We're using the amazing Bootstrap Icons, it's free, high quality, open source icon library with over 2,000 icons.
-
+  ```html
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  ```
 
 ## Categories
 
