@@ -1,0 +1,125 @@
+<!doctype html>
+<!-- This site was created in Vsdio. https://vsdio.com --><!-- Last Published: Wed Nov 13 2024 15:46:17 Europe/Berlin+0100 -->
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="generator" content="">
+    <title>3D Flip Card</title>
+    <link rel="canonical" href="">
+    <link href="https://vsdio.com/media/assets/bootstrap-5.3.3/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://vsdio.com/media/assets/icons-1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+    <style>
+        .f-card {
+            width: 300px;
+            height: 450px;
+            perspective: 1000px
+        }
+
+        .f-card-inner {
+            width: 100%;
+            height: 100%;
+            transform-style: preserve-3d;
+            position: relative;
+            transition: transform 600ms ease 0ms;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, .2)
+        }
+
+        .card-back {
+            width: 100% !important;
+            height: 100% !important;
+            background-color: #2a9d8f !important;
+            position: absolute !important;
+            transform: rotateY(180deg) !important;
+            backface-visibility: hidden !important
+        }
+
+        .card-front {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            backface-visibility: hidden;
+            background-image: url(https://media.vsdio.com/vsae34a498e700a408258ce9da38dea9ae717f1997/jake-nackos-IF9TK5Uy-KI-unsplash.jpg);
+            background-repeat: no-repeat;
+            background-position: 50% 50%;
+            background-attachment: scroll;
+            background-size: cover
+        }
+
+        .f-card:hover .f-card-inner {
+            transform: rotateY(180deg);
+        }
+
+        .card-image-2 {
+            background-image: url(https://media.vsdio.com/vsae34a498e700a408258ce9da38dea9ae717f1997/andrew-power-9ZXpKFlQkjo-unsplash.jpg);
+            background-repeat: no-repeat;
+            background-position: 50% 50%;
+            background-attachment: scroll;
+            background-size: cover
+        }
+
+        .card-image-3 {
+            background-image: url(https://media.vsdio.com/vsae34a498e700a408258ce9da38dea9ae717f1997/albert-dera-ILip77SbmOE-unsplash.jpg);
+            background-repeat: no-repeat;
+            background-position: 50% 50%;
+            background-attachment: scroll;
+            background-size: cover
+        }
+    </style>
+</head>
+
+<body data-id="vscbe2c405fbf8c65ffb72009847cb8e0e0066d2fb">
+    <section class=" py-5">
+        <div class="container ">
+            <div class="row ">
+                <div class="col ">
+                    <div class=" f-card">
+                        <div class=" f-card-inner">
+                            <div class=" card-front"></div>
+                            <div class=" card-back px-4 py-4">
+                                <h4>Full name<br></h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in
+                                    eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum
+                                    nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id
+                                    rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col ">
+                    <div class=" f-card ">
+                        <div class=" f-card-inner ">
+                            <div class=" card-front card-image-2"></div>
+                            <div class=" card-back px-4 py-4 ">
+                                <h4>Full name<br></h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in
+                                    eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum
+                                    nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id
+                                    rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col ">
+                    <div class=" f-card ">
+                        <div class=" f-card-inner ">
+                            <div class=" card-front card-image-3"></div>
+                            <div class=" card-back px-4 py-4 ">
+                                <h4>Full name<br></h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in
+                                    eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum
+                                    nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id
+                                    rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>
