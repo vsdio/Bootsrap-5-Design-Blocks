@@ -7,6 +7,7 @@ Bootstrap 5 Template Blocks ready to be used in your web or mobile apps. All blo
 - [Why use Bootstrap 5 Template Blocks](#why-use-bootstrap-5-template-blocks)
 - [Quick start](#quick-start)
 - [Dependencies](#dependencies)
+- [Snippets](#snippets)
 - [Categories](#categories)
 - [Browser support](#browser-support)
 - [Copyright and license](#copyright-and-license)
@@ -36,6 +37,10 @@ Bootstrap 5 Template Blocks are built with only HTML with bootstrap 5, no CSS th
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
   ```
 
+## Snippets
+
+- Flex cards with animation - https://youtu.be/86vTcB70_3A
+    
 ## Categories
 
 - Hero (5) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Hero
