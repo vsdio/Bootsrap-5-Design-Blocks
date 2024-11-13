@@ -40,6 +40,7 @@ Bootstrap 5 Template Blocks are built with only HTML with bootstrap 5, no CSS th
 ## Snippets
 
 - Flex cards with animation - https://youtu.be/86vTcB70_3A
+- 3D Flip Card - https://youtu.be/2VqdTN5VCQA
     
 ## Categories
 
