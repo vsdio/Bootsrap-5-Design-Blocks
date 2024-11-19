@@ -2,6 +2,8 @@
 
 75 Bootstrap 5 Template Blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library, it is beautiful and clean. They are Compatible with all websites using bootstrap 5
 
+Free hosting: [https://sharehost.vsdio.com](https://sharehost.vsdio.com)
+
 ## Table of contents
 
 - [Why use Bootstrap 5 Template Blocks](#why-use-bootstrap-5-template-blocks)
