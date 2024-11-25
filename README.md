@@ -1,6 +1,6 @@
-# [83 Bootstrap 5 Template Blocks](https://vsdio.com/block.html)
+# [88 Bootstrap 5 Template Blocks](https://vsdio.com/block.html)
 
-83 Bootstrap 5 Template Blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library, it is beautiful and clean. They are Compatible with all websites using bootstrap 5
+88 Bootstrap 5 Template Blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library, it is beautiful and clean. They are Compatible with all websites using bootstrap 5
 
 Free hosting: [https://sharehost.vsdio.com](https://sharehost.vsdio.com)
 
@@ -48,7 +48,7 @@ Bootstrap 5 Template Blocks are built with only HTML with bootstrap 5, no CSS th
     
 ## Categories
 
-- Navbar (7) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Navbar
+- Navbar (12) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Navbar
 - Hero (5) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Hero
 - About (10) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/About
 - Features (11) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Features
