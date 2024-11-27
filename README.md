@@ -14,7 +14,7 @@ Free hosting: [https://sharehost.vsdio.com](https://sharehost.vsdio.com)
 - [Browser support](#browser-support)
 - [Copyright and license](#copyright-and-license)
 
-![alt Boootstrap 5 Blocks](https://github.com/vsdio/Bootsrap-5-Template-Blocks/blob/main/bootstrap-5-blocks.jpg?raw=true)
+![alt Boootstrap 5 Blocks](https://github.com/vsdio/Bootsrap-5-Design-Blocks/blob/main/bootstrap-5-blocks.jpg?raw=true)
 
 ## why use Bootstrap 5 Template Blocks
 Bootstrap 5 Template Blocks are built with only HTML with bootstrap 5, no CSS theme, no custom CSS. So there will be no conflict with your website. They will help you save the time of developing or upgrading the website.
@@ -48,22 +48,22 @@ Bootstrap 5 Template Blocks are built with only HTML with bootstrap 5, no CSS th
     
 ## Categories
 
-- Navbar (12) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Navbar
-- Hero (13) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Hero
-- About (10) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/About
-- Features (11) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Features
-- Services (10) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Services
-- Portfolio (2) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Portfolio
-- Testimonials (3) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Testimonials
-- Team (7) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Team
-- Blog (5) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Blog
-- Clients (3) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Clients
-- Call to Action (4) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Call-to-Action
-- FAQ (3) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/FAQs
-- Form (3) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Form
-- Pricing (2) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Pricing
-- Contact (8) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Contact
-- Footer (7) - https://github.com/vsdio/Bootsrap-5-Template-Blocks/tree/main/Footer
+- Navbar (12) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Navbar
+- Hero (13) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Hero
+- About (10) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/About
+- Features (11) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Features
+- Services (10) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Services
+- Portfolio (2) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Portfolio
+- Testimonials (3) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Testimonials
+- Team (7) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Team
+- Blog (5) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Blog
+- Clients (3) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Clients
+- Call to Action (4) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Call-to-Action
+- FAQ (3) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/FAQs
+- Form (3) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Form
+- Pricing (2) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Pricing
+- Contact (8) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Contact
+- Footer (7) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Footer
 
 
 ## Browser Support
@@ -78,4 +78,4 @@ Support all major web browsers.
 - not Explorer <= 11
 
 ## Copyright and License
-Code released under the [MIT License](https://github.com/vsdio/Bootsrap-5-Template-Blocks/blob/main/LICENSE). 
+Code released under the [MIT License](https://github.com/vsdio/Bootsrap-5-Design-Blocks/blob/main/LICENSE). 
