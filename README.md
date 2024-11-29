@@ -50,18 +50,18 @@ Bootstrap 5 Template Blocks are built with only HTML with bootstrap 5, no CSS th
 
 - Navbar (12) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Navbar
 - Hero (13) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Hero
-- About (10) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/About
-- Features (11) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Features
+- About (15) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/About
+- Features (12) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Features
 - Services (12) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Services
 - Portfolio (2) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Portfolio
 - Testimonials (6) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Testimonials
 - Team (7) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Team
-- Blog (6) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Blog
+- Blog (9) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Blog
 - Clients (5) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Clients
 - Call to Action (10) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Call-to-Action
 - FAQ (4) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/FAQs
 - Form (6) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Form
-- Pricing (4) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Pricing
+- Pricing (7) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Pricing
 - Contact (10) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Contact
 - Footer (8) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Footer
 
