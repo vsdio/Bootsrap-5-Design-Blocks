@@ -1,4 +1,4 @@
-# [138 Bootstrap 5 Design Blocks](https://dio.in.net/)
+# [145 Bootstrap 5 Design Blocks](https://dio.in.net/)
 
 138 Bootstrap 5 Design Blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library, it is beautiful and clean. They are Compatible with all websites using bootstrap 5
 
@@ -51,8 +51,8 @@ Bootstrap 5 Template Blocks are built with only HTML with bootstrap 5, no CSS th
 ## Categories
 
 - Navbar (12) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Navbar
-- Hero (13) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Hero
-- About (15) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/About
+- Hero (14) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Hero
+- About (19) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/About
 - Features (12) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Features
 - Services (12) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Services
 - Portfolio (2) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Portfolio
@@ -64,7 +64,7 @@ Bootstrap 5 Template Blocks are built with only HTML with bootstrap 5, no CSS th
 - FAQ (4) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/FAQs
 - Form (6) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Form
 - Pricing (7) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Pricing
-- Contact (10) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Contact
+- Contact (12) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Contact
 - Footer (8) - https://github.com/vsdio/Bootsrap-5-Design-Blocks/tree/main/Footer
 
 
