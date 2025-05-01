@@ -2,11 +2,21 @@
 
 145 Bootstrap 5 Design Blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library, it is beautiful and clean. They are Compatible with all websites using bootstrap 5
 
-[Demo Preview](https://dio.in.net/)
+# 📢 Announcing: Official Release on Gumroad!
 
-[168 wireframe templates](https://github.com/vsdio/bootstrap-5-wireframe)
+We're excited to announce that the **145 Bootstrap 5 Design Blocks** are now officially available as a downloadable UI Kit on **Gumroad**!
 
-Looking for free hosting? [https://sharehost.vsdio.com](https://sharehost.vsdio.com) is here for you
+🎉 Whether you've starred this repo, cloned the blocks, or used them in your projects — THANK YOU!
+
+🛒 Get the full package (with organized folders, README, LICENSE, and optional donation):
+👉 https://vsdio.gumroad.com/l/bootstrap-5-design-blocks
+
+💬 Why Gumroad?
+- Cleaner file structure
+- Lifetime access to updates
+- Optional tip support to keep this project alive 💖
+
+Of course, it will **always be free** to access on GitHub. But if you'd like to support further development, you now have that option 🙌
 
 ## Table of contents
 
