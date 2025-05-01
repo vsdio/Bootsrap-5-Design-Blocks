@@ -8,7 +8,6 @@ We're excited to announce that the **145 Bootstrap 5 Design Blocks** are now off
 
 🎉 Whether you've starred this repo, cloned the blocks, or used them in your projects — THANK YOU!
 
-🛒 Get the full package (with organized folders, README, LICENSE, and optional donation):
 👉 https://vsdio.gumroad.com/l/bootstrap-5-design-blocks
 
 💬 Why Gumroad?
