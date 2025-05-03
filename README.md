@@ -25,7 +25,7 @@ Bootstrap 5 Template Blocks are built with only HTML with bootstrap 5, no CSS th
 
 - **Download Bootstrap 5 Template Blocks.** There are several ways to start using the Bootstrap 5 Template Blocks depending on how you prefer:
 
-    - Use for [Vsdio](https://vsdio.com)
+    - Use for [Vsdio]
     - Use for develop the website (using Bootstrap 5)
     - ...
 
